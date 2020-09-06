@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Journalism in the Age of Data | Review!
+title: Journalism in the Age of Data | Blog Review
 ---
 
 Journalism in the Age of Data Review
