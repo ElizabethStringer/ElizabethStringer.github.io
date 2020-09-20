@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Parable of Google Flu: Traps in Big Data Analysis | Blog Review
+title: The Parable of Google Flu - Traps in Big Data Analysis | Blog Review
 ---
 
 Citation: D. Lazer, R. Kennedy, G. King, and A. Vespignani. 2014. "The Parable of Google Flu: Traps in Big Data Analysis." Science 343 (6176) (March 14): 1203-1205. doi:10.1126/science.1248506
