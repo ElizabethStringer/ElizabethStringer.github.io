@@ -8,11 +8,11 @@ Citation: D. Lazer, R. Kennedy, G. King, and A. Vespignani. 2014. "The Parable o
 Review of The Parable of Google Flu: Traps in Big Data Analysis
 9/19/2020
 
-The authors discuss the the 2013 Google Flu Trends algorithm that predicted more than double the proportion of doctor visits for influenza-like illnesses than the Centers for Disease Control and Prevention.
+The authors discuss the 2013 Google Flu Trends algorithm that predicted more than double the proportion of doctor visits for influenza-like illnesses than the Centers for Disease Control and Prevention.
 
-They discuss the issues to think through based on this public example of differences in using data for prediction, setting up a comparison of using social media data versus traditional methods and hypothesis.
+They discuss the 2013 prediction failure in order to think through isssues based on this public example of big data differences in using data for prediction, setting up a comparison of using social media data versus traditional methods and hypothesis.
 
-At the heart of the Google Flu Trends results is the product nature of the Google algorithm. Good is a business and used it's product outside of the actual design and intended outcomes. The "blue team" dynamics modified their algorithm for customer satisfaction and buisness goals, not for predicting the flu.
+At the heart of the Google Flu Trends results is the commercial "product" nature of the Google algorithm. Google is a business and used it's product outside of the actual design and intended outcomes. The "blue team" dynamics modified their algorithm for customer satisfaction and buisness goals, not for predicting the flu.
 
 The authors are really using the Google Flu Trends results to illustrate the bigger picture issues with data analysis, the lack foundational instruments designed to produce valid and reliable data amenable for scientific analysis.
 
