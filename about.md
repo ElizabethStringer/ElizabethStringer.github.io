@@ -15,3 +15,5 @@ Virtual and Augmented Reality Researcher
 ### Contact me
 
 [estringer@smu.edu](mailto:estringer@smu.edu)
+
+### Resume
