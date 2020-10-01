@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Director of Academics
-Clinical Professor
+Director of Academics,
+Clinical Professor @
 SMU|Guildhall
 
 ### More Information
 
-Virtual and augmented reality researcher
+Virtual and Augmented Reality Researcher
 
 ### Contact me
 
