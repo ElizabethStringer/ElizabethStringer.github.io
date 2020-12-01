@@ -3,10 +3,10 @@ layout: post
 title: Data Visualizaton Project | Presentation
 ---
 ![BubblePlotGraphDataViz](/images/BubblePlotGraphDataViz.png)
-![BubbleplotcodeDataViz](/images/BubbleplotcodeDataViz.png)
-![StackedbarcodeDataViz](/images/StackedbarcodeDataViz.png)
-![HorizontalBarChartDataVizCode](/images/HorizontalBarChartDataVizCode.png)
-![chorplethcode](/images/chorplethcode.png)
+![BubbleplotcodeDataViz](/images/BubbleplotcodeDataViz.PNG)
+![StackedbarcodeDataViz](/images/StackedbarcodeDataViz.PNG)
+![HorizontalBarChartDataVizCode](/images/HorizontalBarChartDataVizCode.PNG)
+![chorplethcode](/images/chorplethcode.PNG)
 ![PostDataVizReport_Page_1](/images/PostDataVizReport_Page_1.jpg)
 ![PostDataVizReport_Page_2](/images/PostDataVizReport_Page_2.jpg)
 ![PostDataVizReport_Page_3](/images/PostDataVizReport_Page_3.jpg)
