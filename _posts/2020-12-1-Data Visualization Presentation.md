@@ -22,7 +22,7 @@ Ranked Horizontal Bar Chart Ggplot2 Code
 ![HorizontalBarChartDataVizCode](/images/HorizontalBarChartDataVizCode.PNG)
 
 
-Global Chorpleth Map Shiny Code
+Global Choropleth Map Shiny Code
 
 ![chorplethcode](/images/chorplethcode.PNG)
 
