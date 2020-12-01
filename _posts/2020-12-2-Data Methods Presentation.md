@@ -2,6 +2,7 @@
 layout: post
 title: Data Methods Project | Presentation
 ---
+Confirmatory Factor Analysis of UDO
 
 ![PostDataMethodsReport_Page_01](/images/PostDataMethodsReport_Page_02.png)
 ![PostDataMethodsReport_Page_01](/images/PostDataMethodsReport_Page_03.png)
