@@ -2,20 +2,20 @@
 layout: post
 title: Data Visualizaton Project | Presentation
 ---
-Regionalized UDO Frequency Visualized in a Bubble Chart using ggplot2
+Regionalized UDO Frequency Visualized in a Bubble Chart using R
 
 ![BubblePlotGraphDataViz](/images/BubblePlotGraphDataViz.png)
 
-Bubble Plot Code
+Bubble Plot ggplot2 Code
 ![BubbleplotcodeDataViz](/images/BubbleplotcodeDataViz.PNG)
 
-Stacked Bar Chart Code
+Stacked Bar Chart ggplot2 Code
 ![StackedbarcodeDataViz](/images/StackedbarcodeDataViz.PNG)
 
-Ranked Horizontal Bar Chart Code
+Ranked Horizontal Bar Chart ggplot2 Code
 ![HorizontalBarChartDataVizCode](/images/HorizontalBarChartDataVizCode.PNG)
 
-Global Chorpleth Map Code
+Global Chorpleth Map shiny Code
 ![chorplethcode](/images/chorplethcode.PNG)
 
 ![PostDataVizReport_Page_1](/images/PostDataVizReport_Page_1.jpg)
