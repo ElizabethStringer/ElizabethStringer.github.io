@@ -29,4 +29,4 @@ Global Choropleth Map Shiny Code
 
 ![PostDataVizReport_Page_1](/images/PostDataVizReport_Page_1.jpg)
 ![PostDataVizReport_Page_2](/images/PostDataVizReport_Page_2.jpg)
-![PostDataVizReport_Page_3](/images/PostDataVizReport_Page_3.jpg)
+
